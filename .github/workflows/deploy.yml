@@ -19,4 +19,4 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "sgsdfa"
-          entrypoint: "./main.ts" # TODO: update entrypoint
+          entrypoint: "deno.js" # TODO: update entrypoint
